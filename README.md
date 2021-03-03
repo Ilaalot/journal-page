@@ -1,2 +1,0 @@
-# journal-page
-**journal-page**
